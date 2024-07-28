@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img width="400" src="https://dsc-readme.tsuni.dev/api/user/214167454291722241"></img></p>
 
 <!--
 **TetraTsunami/TetraTsunami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
