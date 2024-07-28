@@ -1,3 +1,4 @@
+<h3 align="center">What am I up to now?</h3>
 <p align="center"><a href="https://github.com/TetraTsunami/discord-preview"><img width="400" src="https://dsc-readme.tsuni.dev/api/user/214167454291722241"></img></a></p>
 
 <!--
